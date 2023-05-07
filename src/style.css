@@ -1,0 +1,25 @@
+.err{
+    color: red !important;
+}
+.left{
+    height: 100vh;
+    background:  #726BE6;
+    padding-left: 10px;
+}
+.left h3{
+    color: white;
+}
+ 
+.right{
+    height: 100vh;
+    background:  #726BE6;
+    padding-left: 10px;
+}
+.right h3{
+    color: #fff;
+}
+
+.middle{
+    background: red;
+    height: 90vh;
+}
